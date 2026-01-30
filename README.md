@@ -8,7 +8,7 @@
 ## 🚀 Project Overview
 This project transforms raw Spotify metadata into a high-fidelity, interactive dashboard. The goal was to bridge the gap between **UI/UX Design** and **Data Analytics**, creating a tool that feels like a native mobile application while providing deep insights into streaming trends.
 
-### 🛠️ Tech Stack![Uploading Overview.png…]()
+### 🛠️ Tech Stack!
 
 - **Data Tool:** Power BI Desktop
 - **Data Logic:** DAX (Data Analysis Expressions)
