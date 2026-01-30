@@ -2,12 +2,14 @@
 
 # 🎵 Spotify Music Analytics App (Power BI)
 
-![Spotify Dashboard Overview](https://link-to-your-screenshot-here.png)
+![Spotify Dashboard Overview] <img width="1409" height="787" alt="Overview" src="https://github.com/user-attachments/assets/f36d2cdd-2e97-4f9e-a5ce-e308553cdbd7" />
+
 
 ## 🚀 Project Overview
 This project transforms raw Spotify metadata into a high-fidelity, interactive dashboard. The goal was to bridge the gap between **UI/UX Design** and **Data Analytics**, creating a tool that feels like a native mobile application while providing deep insights into streaming trends.
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack![Uploading Overview.png…]()
+
 - **Data Tool:** Power BI Desktop
 - **Data Logic:** DAX (Data Analysis Expressions)
 - **Data Cleaning:** Power Query (M Language)
