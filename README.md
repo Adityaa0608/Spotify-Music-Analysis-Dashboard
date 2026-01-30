@@ -2,7 +2,7 @@
 
 # 🎵 Spotify Music Analytics App (Power BI)
 
-![Spotify Dashboard Overview] <img width="1409" height="787" alt="Overview" src="https://github.com/user-attachments/assets/f36d2cdd-2e97-4f9e-a5ce-e308553cdbd7" />
+ <img width="1409" height="787" alt="Overview" src="https://github.com/user-attachments/assets/f36d2cdd-2e97-4f9e-a5ce-e308553cdbd7" />
 
 
 ## 🚀 Project Overview
