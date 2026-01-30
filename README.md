@@ -27,7 +27,7 @@ This project transforms raw Spotify metadata into a high-fidelity, interactive d
 ## 📂 Project Structure
 - `Spotify_Dashboard.pbix`: Final Power BI file.
 - `/Dataset`: Raw CSV/Excel data used for the analysis.
-- `/Images`: Screenshots of the multi-page interface.
+- `/Visuals`: Screenshots of the multi-page interface.
 
 ---
 **How to View:**
